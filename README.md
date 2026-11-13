@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Richard Pointing</h1>
 <h3 align="center">Currently a High School Computer Science Teacher looking to get more development and back end experience.</h3>
 
-- 🔭 I’m currently working on [building a tattoo booking application](https://github.com/mr-pointing/cap_pokes)
+- 🔭 I’m currently maintaining a [tattoo booking application](https://github.com/mr-pointing/cap_pokes)
 
-- 🌱 I’m currently learning **how to teach Git, linear algebra for Deep Learning, and using Tkinter for Python GUI projects.**
+- 🌱 I’m currently learning **more about Linux, Docker, and using Active Directory in a working environment.**
 
 - 👨‍💻 All of my projects, courses, and notes are available on [my website](https://mrpointing.com)
 
